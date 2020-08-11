@@ -4,8 +4,8 @@ import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
 
 @SpringBootApplication
-class DictionaryApplication {
+class Application {
     static void main(String[] args) {
-        SpringApplication.run(DictionaryApplication, args)
+        SpringApplication.run(Application, args)
     }
 }
